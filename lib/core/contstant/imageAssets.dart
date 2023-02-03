@@ -1,0 +1,29 @@
+class AppImageAsset {
+  static const String rootImages = "assets/images/";
+  static const String rootLottie = "assets/lottie/";
+  static const String rootSvg = "assets/svg/";
+  static const String rootIcons = "assets/icons/";
+  static const String SplashScreen = "${rootImages}BackgroundPatternFaster.gif";
+  static const String onBoarding1 = '${rootImages}onboarding1.png';
+  static const String onBoarding2 = '${rootImages}onboarding2.png';
+  static const String onBoarding3 = '${rootImages}onboarding3.png';
+  static const String logo = '${rootImages}jossor.png';
+  static const String facebookIcon = '${rootImages}facebook.png';
+  static const String googleIcon = '${rootImages}search.png';
+  static const String loading = '${rootLottie}loading.json';
+  static const String noData = '${rootLottie}nonDataFound.json';
+  static const String noConnection = '${rootLottie}noConnection.json';
+  static const String serverError = '${rootLottie}error-404.json';
+  static const String success = '${rootLottie}success.json';
+  static const String menue = '${rootSvg}Menu.svg';
+  static const String offers = '${rootIcons}Offers.ico';
+  static const String article = '${rootIcons}Article.ico';
+  static const String submission = '${rootIcons}Submission.ico';
+  static const String university = '${rootIcons}University.ico';
+  static const String home = '${rootIcons}Home.ico';
+  static const String pattern = '${rootImages}Pattern_1.gif';
+  static const String bilecik = '${rootImages}bilecik.jpg';
+  static const String bogazici = '${rootImages}Bogazici .jpg';
+  static const String istanbul = '${rootImages}istanbul.jpg';
+  static const String Koc = '${rootImages}Koç .jpg';
+}
