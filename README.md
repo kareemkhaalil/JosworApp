@@ -1,4 +1,4 @@
-Josowr
+#Josowr
 
 📱 The Josowr App provides an advanced service for students by Josowr Company, allowing them to browse universities in Turkey 🇹🇷, apply to them, and track their application status. The app is entirely developed using Flutter and Dart, and GetX is used for state management. 🚀
 ___________________________________________
